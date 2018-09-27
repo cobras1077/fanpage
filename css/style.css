@@ -17,3 +17,14 @@ a {
     width: 30px;
     margin: 15px;
 }
+.header{
+    display:flex;
+    justify-content:center;
+    COlor:Blue;
+}
+#indexbody{
+    background-color:#c9d7ed;
+}
+#aboutbody{
+    background-color:#7ba2e0;
+}
