@@ -46,12 +46,12 @@ body{
 .text{
     color:white;
 }
-#index-img{
-    position:absolute;
-    right:0%;
-    width:100px;
-    height:100px;
-}
+/*#index-img{*/
+/*    position:absolute;*/
+/*    right:0%;*/
+/*    width:100px;*/
+/*    height:100px;*/
+/*}*/
 .aboutMain {
     display:flex;
 }
@@ -89,10 +89,11 @@ body{
     border:solid black;
 }
 .main{
-    background-image: url("https://pre00.deviantart.net/2572/th/pre/i/2015/083/5/6/smudge_painting_dengan_photoshop___vin_diesel_by_ghinafajarshidiq-d8n1hnm.jpg");
+    /*background-image: url("http://images4.fanpop.com/image/photos/19800000/Fan-Art-vin-diesel-19863005-1591-1200.jpg");*/
     background-repeat:no-repeat;
     background-size: cover;
     margin-top:20px;
+    background-color:red;
 }
 .about-img{
     width:90%;
